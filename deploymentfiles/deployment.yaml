@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: fbcont1
-          image: roshini10/tom-img:1
+          image: roshini10/tom-img:12
           ports:
             - containerPort: 8080
       
